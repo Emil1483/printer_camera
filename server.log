@@ -1132,3 +1132,120 @@ INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloa
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:07:28] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:07:32] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:07:37] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:07:42] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:07:48] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:07:53] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:07:58] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:08:03] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:08:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:08:13] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:08:17] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:08:23] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:08:28] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:08:33] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:08:37] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:08:43] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:08:48] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:08:53] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:08:57] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:09:03] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:09:07] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:09:13] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:09:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:09:24] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:09:28] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:09:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:09:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:09:43] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:10:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/led.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/led.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:14:06] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:14:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:14:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:14:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:14:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:14:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/led.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:14:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:14:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:14:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:14:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:14:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:15:00] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:15:06] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:15:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:15:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:15:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:15:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:15:31] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:15:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:15:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:15:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:15:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/led.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:16:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:16:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/led.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:17:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:18:06] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:18:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:18:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/led.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:20:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:20:07] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:20:11] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:20:17] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:20:22] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:20:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:20:32] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:20:37] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:20:41] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:20:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:20:52] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:20:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:21:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:21:07] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:21:11] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.86.178.179 - - [24/Oct/2021 01:21:16] "GET /live HTTP/1.1" 200 -
