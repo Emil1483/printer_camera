@@ -1,7 +1,7 @@
 import RPi.GPIO as GPIO
 from timer import ResettableTimer
 
-pin = 8
+pin = 12
 
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(pin, GPIO.OUT)
